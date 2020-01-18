@@ -1,8 +1,8 @@
-# SMYCK theme for [Windows Terminal][win-term]
+# SMYCK theme for [Windows Terminal](https://github.com/microsoft/terminal)
 
 **SMYCK** theme for Windows Terminal
 
-_Based on the original [SMYCK][smyck] theme. All credits goes to the original author._
+_Based on the original [SMYCK](https://github.com/hukl/Smyck-Color-Scheme/) theme. All credits goes to the original author._
 
 ## Screenshots
 
@@ -12,7 +12,7 @@ _Based on the original [SMYCK][smyck] theme. All credits goes to the original au
 
 * Open Windows Terminal `profile.json` (`Ctrl + ,`)
 * Find the `schemas` section
-* Paste [smyck.json][json] in the list:
+* Paste [smyck.json](./smyck.json) in the list:
 
     ```json
     {
@@ -86,9 +86,4 @@ _Based on the original [SMYCK][smyck] theme. All credits goes to the original au
 
 ## License
 
-[MIT License][license]
-
-[win-term](https://github.com/microsoft/terminal)
-[smyck](https://github.com/hukl/Smyck-Color-Scheme/)
-[license](./LICENSE)
-[json](./smyck.json)
+[MIT License](./LICENSE)
